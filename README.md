@@ -64,6 +64,6 @@ Ports: Expose Kafka on 9092 and 29092 for internal and external access, respecti
 - **Scaling**: Implement a multi-partition Kafka topic to handle higher message throughput.
 
 
-License
-MIT License.
+_License
+MIT License._
 
