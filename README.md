@@ -18,8 +18,8 @@ This project sets up a data pipeline using Kafka, where a Python producer genera
 
 1. **Clone the Repository**: 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone fetch_test
+   cd fetch_test
     ```
 
 2. **Start Docker Compose:**
