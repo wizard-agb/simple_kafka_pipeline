@@ -18,7 +18,7 @@ This project sets up a data pipeline using Kafka, where a Python producer genera
 
 1. **Clone the Repository**: 
    ```bash
-   git clone fetch_test
+   git clone simple_kafka_pipeline
    cd fetch_test
     ```
 
